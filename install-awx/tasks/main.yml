@@ -1,0 +1,3 @@
+---
+- import_tasks: pre-req.yml
+- import_taks: setup-awx.yml
